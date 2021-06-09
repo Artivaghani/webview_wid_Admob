@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">રસી નોંધણી</string>
+
+    <string name="new_game">setting</string>
+
+    <string name="Gujarati">ગુજરાતી</string>
+    <string name="english">અંગ્રેજી</string>
+    <string name="Hindi">હિન્દી</string>
+
+    <string name="veccination_slot">રસીકરણ બુકિંગ સ્લોટ</string>
+    <string name="vaccination_registration">રસીકરણ નોંધણી</string>
+    <string name="chnage_lang">ભાષા બદલો</string>
+    <string name="sharapp">શેર એપ્લિકેશન</string>
+</resources>

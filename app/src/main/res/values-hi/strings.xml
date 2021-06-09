@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">वैक्सीन पंजीकरण</string>
+    <string name="new_game">setting</string>
+
+    <string name="Gujarati">गुजराती</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="Hindi">हिंदी</string>
+    <string name="veccination_slot">टीकाकरण बुकिंग स्लॉट</string>
+    <string name="vaccination_registration">टीकाकरण पंजीकरण</string>
+    <string name="chnage_lang">भाषा बदलें</string>
+    <string name="sharapp">ऐप शेयर करें</string>
+</resources>

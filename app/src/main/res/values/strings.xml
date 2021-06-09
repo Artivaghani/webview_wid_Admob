@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Vaccine Registration</string>
+    <string name="new_game">setting</string>
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-7484057413460570~6947030962</string>
+    <string name="banner_home_footer" translatable="false">ca-app-pub-7484057413460570/9525286364</string>
+    <string name="interstitial_full_screen" translatable="false">ca-app-pub-7484057413460570/6068422932</string>
+    <string name="Gujarati">Gujarati</string>
+    <string name="english">English</string>
+    <string name="Hindi">Hindi</string>
+    <string name="veccination_slot">Veccination Booking Slot</string>
+    <string name="vaccination_registration">Vaccination Registration</string>
+    <string name="chnage_lang">Change Language</string>
+    <string name="sharapp">Share App</string>
+
+</resources>
