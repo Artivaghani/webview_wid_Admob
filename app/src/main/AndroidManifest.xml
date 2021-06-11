@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.vaccineregistration">
+    package="com.vaccineregistrationforIndian">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"></uses-permission>
@@ -17,17 +17,17 @@
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-7484057413460570~6947030962" />
+            android:value="ca-app-pub-7484057413460570~6530303380" />
 
-        <activity android:name="com.vaccineregistration.Splash_screen">
+        <activity android:name="com.vaccineregistrationforIndian.Splash_screen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.vaccineregistration.Web_View" />
-        <activity android:name="com.vaccineregistration.MainActivity"></activity>
+        <activity android:name="com.vaccineregistrationforIndian.Web_View" />
+        <activity android:name="com.vaccineregistrationforIndian.MainActivity"></activity>
 
         <meta-data
             android:name="com.google.android.gms.ads.AD_MANAGER_APP"
